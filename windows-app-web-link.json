@@ -1,0 +1,7 @@
+[
+  {
+    "packageFamilyName": "RohanDeepLink_5hrprsf91vqxr",
+    "paths": [ "*" ],
+    "excludePaths": [ "/uwp/*" ]
+  }
+]
