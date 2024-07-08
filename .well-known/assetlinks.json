@@ -1,11 +1,9 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "world.tally.twtallyscpnative",
-      "sha256_cert_fingerprints":
-      ["28:D3:4F:50:AD:F5:C4:F7:31:FF:28:8E:67:87:A3:20:3F:73:D7:AA:70:B5:0A:E5:19:15:DC:7B:1B:35:24:79"]
-    }
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "world.tally.twtallyscpnative",
+    "sha256_cert_fingerprints":
+    ["28:D3:4F:50:AD:F5:C4:F7:31:FF:28:8E:67:87:A3:20:3F:73:D7:AA:70:B5:0A:E5:19:15:DC:7B:1B:35:24:79"]
   }
-]
+}]
